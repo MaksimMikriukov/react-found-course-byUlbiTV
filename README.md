@@ -1,4 +1,4 @@
-<h1>My frist React project
+<h1>My frist React project</h1>
  15-20 hours work 
 # ![image](https://user-images.githubusercontent.com/106074688/226330707-207d879a-c40b-43f7-983a-451faea85094.png)
 # ![image](https://user-images.githubusercontent.com/106074688/226330545-7fd1d42e-5c08-42f2-bf56-b4aa587a5250.png)
